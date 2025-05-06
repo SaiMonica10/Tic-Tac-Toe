@@ -25,5 +25,5 @@ To run this project locally, make sure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
-   cd tic-tac-toe
+   git clone https://github.com/SaiMonica10/Tic-Tac-Toe.git
+   cd Tic-Tac-Toe
